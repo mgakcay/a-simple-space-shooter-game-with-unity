@@ -1,5 +1,5 @@
 # cosmos-wind-a-Unity-game
-Cosmos Wild Unity Game
+Cosmos Wind Unity Game
 
 
 This repo contains only C# codes; If you want the full version of the project, 
